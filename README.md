@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Dcoder**(an online platform for competitive programming)
+- 🔭 I’m currently working on <a href="https://github.com/guru-divine/Covid-Bed-Slot-Booking-System" target="_blank"> Covid-Bed-Slot-Booking-System</a>
 
-- 🌱 I’m currently learning **React, Networking**
+- 🌱 I’m currently learning **React, Networking, Django**
 
 - 💬 Ask me about **C++, Python, React-Native**
 
