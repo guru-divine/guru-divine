@@ -61,16 +61,22 @@
 </p>
 
 <h3 align="left">⭐ My Stats:</h3>
-<picture>
+<a href="https://github.com/guru-divine">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guru-divine&layout=compact&langs_count=8&theme=nightowl"/>
+</a>
+<a href="https://github.com/guru-divine">
+<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guru-divine&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+</a>
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=guru-divine&show_icons=true&locale=en&layout=compact&title_color=blue&theme=radical">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guru-divine&show_icons=true&locale=en&layout=compact&title_color=blue">
-</picture>
+</picture> -->
 
-<picture>
+<!--<picture>
  &nbsp;
  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guru-divine&show_icons=true&locale=en&title_color=blue&theme=radical">
  <img src="https://github-readme-stats.vercel.app/api?username=guru-divine&show_icons=true&locale=en&title_color=blue">
-</picture>
+</picture>-->
 
 <br>
 
