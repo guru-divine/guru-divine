@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://github.com/guru-divine/DCode" target="_blank"> DCode</a>
+- 🔭 I’m currently working on <a href="https://github.com/guru-divine/DCode" target="_blank"> DCode</a>, <a href="https://github.com/guru-divine/MyBTP" target="_blank"> MyBTP</a>
 
-- 🌱 I’m currently learning **React, Networking, Django**
+- 🌱 I’m currently learning **Networking, Django**
 
 - 💬 Ask me about **C++, Python, React-Native**
 
