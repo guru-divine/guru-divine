@@ -1,13 +1,13 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Divya Raj</h1>
-<h3 align="center">A passionate full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IIT Kharagpur.</h3>
+<h3 align="center">A lazy developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IIT Kharagpur.</h3>
 
 
 
-- 🔭 I’m currently working on <a href="https://github.com/guru-divine/DCode" target="_blank"> DCode</a>, <a href="https://github.com/guru-divine/MyBTP" target="_blank"> MyBTP</a>
+- 🔭 I’m currently working on <a href="https://github.com/guru-divine/Text-Summarizer-Project" target="_blank"> Text-Summarizer</a>
 
-- 🌱 I’m currently learning **Networking, Django**
+- 🌱 I’m currently learning **NLP, CV**
 
-- 💬 Ask me about **C++, Python, React-Native**
+- 💬 Ask me about **C++, Python**
 
 - 📫 How to reach me **guru.divinee@gmail.com**
 
@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/the.free_guy/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://https://leetcode.com/guru_divine/">
+<!--   <a href="https://https://leetcode.com/guru_divine/">
       <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
   <a href="https://codeforces.com/profile/guru_divine">
@@ -30,7 +30,7 @@
   </a>
   <a href="https://www.codechef.com/users/noob_divine">
       <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a>
+  </a> -->
 </div> 
 
 <h3 align="left">🛠 Languages and Tools:</h3>
