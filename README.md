@@ -78,8 +78,12 @@
 
 <h3 align="left">⭐ My Stats:</h3>
 <a href="https://github.com/guru-divine">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guru-divine&layout=compact&langs_count=8&theme=nightowl"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guru-divine&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
+<!-- Stats table which can hide languages
+<a href="https://github.com/guru-divine">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru-divine&hide=css&layout=compact&langs_count=8&theme=nightowl"/>
+</a> -->
 <a href="https://github.com/guru-divine">
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guru-divine&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
